@@ -1,0 +1,385 @@
+"bundleID","starter","maindishI","maindishII","side","dessert","avg_rating"
+1,"Fried Chicken Tenders","BBQ Brisket","Sausage","Mac and Cheese","Peach Cobbler",5.81
+2,"Fried Chicken Tenders","BBQ Brisket","Sausage","Mac and Cheese","Apple Pie a la Mode",8.93
+3,"Fried Chicken Tenders","BBQ Brisket","Sausage","Mashed Potato","Peach Cobbler",6.2
+4,"Fried Chicken Tenders","BBQ Brisket","Sausage","Mashed Potato","Apple Pie a la Mode",8.71
+5,"Fried Chicken Tenders","BBQ Brisket","Sausage","French Fry Platter","Peach Cobbler",8.24
+6,"Fried Chicken Tenders","BBQ Brisket","Sausage","French Fry Platter","Apple Pie a la Mode",9.77
+7,"Fried Chicken Tenders","BBQ Brisket","Fajita","Mac and Cheese","Peach Cobbler",8.942
+8,"Fried Chicken Tenders","BBQ Brisket","Fajita","Mac and Cheese","Apple Pie a la Mode",6.192
+9,"Fried Chicken Tenders","BBQ Brisket","Fajita","Mashed Potato","Peach Cobbler",4.522
+10,"Fried Chicken Tenders","BBQ Brisket","Fajita","Mashed Potato","Apple Pie a la Mode",7.032
+11,"Fried Chicken Tenders","BBQ Brisket","Fajita","French Fry Platter","Peach Cobbler",6.262
+12,"Fried Chicken Tenders","BBQ Brisket","Fajita","French Fry Platter","Apple Pie a la Mode",4.742
+13,"Fried Chicken Tenders","BBQ Brisket","Beef Short Rib","Mac and Cheese","Peach Cobbler",7.04
+14,"Fried Chicken Tenders","BBQ Brisket","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",5.87
+15,"Fried Chicken Tenders","BBQ Brisket","Beef Short Rib","Mashed Potato","Peach Cobbler",4.78
+16,"Fried Chicken Tenders","BBQ Brisket","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",8.7
+17,"Fried Chicken Tenders","BBQ Brisket","Beef Short Rib","French Fry Platter","Peach Cobbler",4.8
+18,"Fried Chicken Tenders","BBQ Brisket","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",4.3
+19,"Fried Chicken Tenders","BBQ Brisket","Steak Sampler","Mac and Cheese","Peach Cobbler",8.19
+20,"Fried Chicken Tenders","BBQ Brisket","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",7.14
+21,"Fried Chicken Tenders","BBQ Brisket","Steak Sampler","Mashed Potato","Peach Cobbler",8.08
+22,"Fried Chicken Tenders","BBQ Brisket","Steak Sampler","Mashed Potato","Apple Pie a la Mode",7.5
+23,"Fried Chicken Tenders","BBQ Brisket","Steak Sampler","French Fry Platter","Peach Cobbler",6.61
+24,"Fried Chicken Tenders","BBQ Brisket","Steak Sampler","French Fry Platter","Apple Pie a la Mode",6.32
+25,"Fried Chicken Tenders","Pulled Pork","Sausage","Mac and Cheese","Peach Cobbler",6.23
+26,"Fried Chicken Tenders","Pulled Pork","Sausage","Mac and Cheese","Apple Pie a la Mode",7.93
+27,"Fried Chicken Tenders","Pulled Pork","Sausage","Mashed Potato","Peach Cobbler",8.26
+28,"Fried Chicken Tenders","Pulled Pork","Sausage","Mashed Potato","Apple Pie a la Mode",9.4
+29,"Fried Chicken Tenders","Pulled Pork","Sausage","French Fry Platter","Peach Cobbler",6.77
+30,"Fried Chicken Tenders","Pulled Pork","Sausage","French Fry Platter","Apple Pie a la Mode",8.57
+31,"Fried Chicken Tenders","Pulled Pork","Fajita","Mac and Cheese","Peach Cobbler",7.862
+32,"Fried Chicken Tenders","Pulled Pork","Fajita","Mac and Cheese","Apple Pie a la Mode",7.652
+33,"Fried Chicken Tenders","Pulled Pork","Fajita","Mashed Potato","Peach Cobbler",8.952
+34,"Fried Chicken Tenders","Pulled Pork","Fajita","Mashed Potato","Apple Pie a la Mode",9.282
+35,"Fried Chicken Tenders","Pulled Pork","Fajita","French Fry Platter","Peach Cobbler",5.882
+36,"Fried Chicken Tenders","Pulled Pork","Fajita","French Fry Platter","Apple Pie a la Mode",7.872
+37,"Fried Chicken Tenders","Pulled Pork","Beef Short Rib","Mac and Cheese","Peach Cobbler",5.79
+38,"Fried Chicken Tenders","Pulled Pork","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",7.97
+39,"Fried Chicken Tenders","Pulled Pork","Beef Short Rib","Mashed Potato","Peach Cobbler",5.94
+40,"Fried Chicken Tenders","Pulled Pork","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",5.61
+41,"Fried Chicken Tenders","Pulled Pork","Beef Short Rib","French Fry Platter","Peach Cobbler",9.93
+42,"Fried Chicken Tenders","Pulled Pork","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",5.92
+43,"Fried Chicken Tenders","Pulled Pork","Steak Sampler","Mac and Cheese","Peach Cobbler",9.66
+44,"Fried Chicken Tenders","Pulled Pork","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",8.96
+45,"Fried Chicken Tenders","Pulled Pork","Steak Sampler","Mashed Potato","Peach Cobbler",8.79
+46,"Fried Chicken Tenders","Pulled Pork","Steak Sampler","Mashed Potato","Apple Pie a la Mode",8.69
+47,"Fried Chicken Tenders","Pulled Pork","Steak Sampler","French Fry Platter","Peach Cobbler",6.19
+48,"Fried Chicken Tenders","Pulled Pork","Steak Sampler","French Fry Platter","Apple Pie a la Mode",9.18
+49,"Fried Chicken Tenders","BBQ Chicken","Sausage","Mac and Cheese","Peach Cobbler",8.81
+50,"Fried Chicken Tenders","BBQ Chicken","Sausage","Mac and Cheese","Apple Pie a la Mode",8.89
+51,"Fried Chicken Tenders","BBQ Chicken","Sausage","Mashed Potato","Peach Cobbler",8.32
+52,"Fried Chicken Tenders","BBQ Chicken","Sausage","Mashed Potato","Apple Pie a la Mode",5.94
+53,"Fried Chicken Tenders","BBQ Chicken","Sausage","French Fry Platter","Peach Cobbler",3.91
+54,"Fried Chicken Tenders","BBQ Chicken","Sausage","French Fry Platter","Apple Pie a la Mode",6.2
+55,"Fried Chicken Tenders","BBQ Chicken","Fajita","Mac and Cheese","Peach Cobbler",8.222
+56,"Fried Chicken Tenders","BBQ Chicken","Fajita","Mac and Cheese","Apple Pie a la Mode",6.922
+57,"Fried Chicken Tenders","BBQ Chicken","Fajita","Mashed Potato","Peach Cobbler",8.402
+58,"Fried Chicken Tenders","BBQ Chicken","Fajita","Mashed Potato","Apple Pie a la Mode",5.912
+59,"Fried Chicken Tenders","BBQ Chicken","Fajita","French Fry Platter","Peach Cobbler",2.952
+60,"Fried Chicken Tenders","BBQ Chicken","Fajita","French Fry Platter","Apple Pie a la Mode",6.392
+61,"Fried Chicken Tenders","BBQ Chicken","Beef Short Rib","Mac and Cheese","Peach Cobbler",6.67
+62,"Fried Chicken Tenders","BBQ Chicken","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",7.01
+63,"Fried Chicken Tenders","BBQ Chicken","Beef Short Rib","Mashed Potato","Peach Cobbler",4.93
+64,"Fried Chicken Tenders","BBQ Chicken","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",9.34
+65,"Fried Chicken Tenders","BBQ Chicken","Beef Short Rib","French Fry Platter","Peach Cobbler",1.69
+66,"Fried Chicken Tenders","BBQ Chicken","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",6.88
+67,"Fried Chicken Tenders","BBQ Chicken","Steak Sampler","Mac and Cheese","Peach Cobbler",6.14
+68,"Fried Chicken Tenders","BBQ Chicken","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",5.48
+69,"Fried Chicken Tenders","BBQ Chicken","Steak Sampler","Mashed Potato","Peach Cobbler",5.84
+70,"Fried Chicken Tenders","BBQ Chicken","Steak Sampler","Mashed Potato","Apple Pie a la Mode",5.85
+71,"Fried Chicken Tenders","BBQ Chicken","Steak Sampler","French Fry Platter","Peach Cobbler",5.12
+72,"Fried Chicken Tenders","BBQ Chicken","Steak Sampler","French Fry Platter","Apple Pie a la Mode",5.09
+73,"Fried Chicken Tenders","Pork and Brisket Combo","Sausage","Mac and Cheese","Peach Cobbler",8.66
+74,"Fried Chicken Tenders","Pork and Brisket Combo","Sausage","Mac and Cheese","Apple Pie a la Mode",8.95
+75,"Fried Chicken Tenders","Pork and Brisket Combo","Sausage","Mashed Potato","Peach Cobbler",9.6
+76,"Fried Chicken Tenders","Pork and Brisket Combo","Sausage","Mashed Potato","Apple Pie a la Mode",9.75
+77,"Fried Chicken Tenders","Pork and Brisket Combo","Sausage","French Fry Platter","Peach Cobbler",3.24
+78,"Fried Chicken Tenders","Pork and Brisket Combo","Sausage","French Fry Platter","Apple Pie a la Mode",8.39
+79,"Fried Chicken Tenders","Pork and Brisket Combo","Fajita","Mac and Cheese","Peach Cobbler",7.112
+80,"Fried Chicken Tenders","Pork and Brisket Combo","Fajita","Mac and Cheese","Apple Pie a la Mode",8.242
+81,"Fried Chicken Tenders","Pork and Brisket Combo","Fajita","Mashed Potato","Peach Cobbler",6.582
+82,"Fried Chicken Tenders","Pork and Brisket Combo","Fajita","Mashed Potato","Apple Pie a la Mode",8.392
+83,"Fried Chicken Tenders","Pork and Brisket Combo","Fajita","French Fry Platter","Peach Cobbler",6.732
+84,"Fried Chicken Tenders","Pork and Brisket Combo","Fajita","French Fry Platter","Apple Pie a la Mode",5.872
+85,"Fried Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","Mac and Cheese","Peach Cobbler",6.2
+86,"Fried Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",7.23
+87,"Fried Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","Mashed Potato","Peach Cobbler",9.45
+88,"Fried Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",9.81
+89,"Fried Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","French Fry Platter","Peach Cobbler",7.87
+90,"Fried Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",9.97
+91,"Fried Chicken Tenders","Pork and Brisket Combo","Steak Sampler","Mac and Cheese","Peach Cobbler",6.84
+92,"Fried Chicken Tenders","Pork and Brisket Combo","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",9.7
+93,"Fried Chicken Tenders","Pork and Brisket Combo","Steak Sampler","Mashed Potato","Peach Cobbler",8.98
+94,"Fried Chicken Tenders","Pork and Brisket Combo","Steak Sampler","Mashed Potato","Apple Pie a la Mode",4.44
+95,"Fried Chicken Tenders","Pork and Brisket Combo","Steak Sampler","French Fry Platter","Peach Cobbler",8.87
+96,"Fried Chicken Tenders","Pork and Brisket Combo","Steak Sampler","French Fry Platter","Apple Pie a la Mode",9.31
+97,"Crabcakes and Shrimp","BBQ Brisket","Sausage","Mac and Cheese","Peach Cobbler",7.43
+98,"Crabcakes and Shrimp","BBQ Brisket","Sausage","Mac and Cheese","Apple Pie a la Mode",6.15
+99,"Crabcakes and Shrimp","BBQ Brisket","Sausage","Mashed Potato","Peach Cobbler",7.69
+100,"Crabcakes and Shrimp","BBQ Brisket","Sausage","Mashed Potato","Apple Pie a la Mode",5.86
+101,"Crabcakes and Shrimp","BBQ Brisket","Sausage","French Fry Platter","Peach Cobbler",7.27
+102,"Crabcakes and Shrimp","BBQ Brisket","Sausage","French Fry Platter","Apple Pie a la Mode",5.49
+103,"Crabcakes and Shrimp","BBQ Brisket","Fajita","Mac and Cheese","Peach Cobbler",3.762
+104,"Crabcakes and Shrimp","BBQ Brisket","Fajita","Mac and Cheese","Apple Pie a la Mode",8.602
+105,"Crabcakes and Shrimp","BBQ Brisket","Fajita","Mashed Potato","Peach Cobbler",2.702
+106,"Crabcakes and Shrimp","BBQ Brisket","Fajita","Mashed Potato","Apple Pie a la Mode",6.332
+107,"Crabcakes and Shrimp","BBQ Brisket","Fajita","French Fry Platter","Peach Cobbler",6.732
+108,"Crabcakes and Shrimp","BBQ Brisket","Fajita","French Fry Platter","Apple Pie a la Mode",4.312
+109,"Crabcakes and Shrimp","BBQ Brisket","Beef Short Rib","Mac and Cheese","Peach Cobbler",8.63
+110,"Crabcakes and Shrimp","BBQ Brisket","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",9.13
+111,"Crabcakes and Shrimp","BBQ Brisket","Beef Short Rib","Mashed Potato","Peach Cobbler",3.31
+112,"Crabcakes and Shrimp","BBQ Brisket","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",6.79
+113,"Crabcakes and Shrimp","BBQ Brisket","Beef Short Rib","French Fry Platter","Peach Cobbler",7.05
+114,"Crabcakes and Shrimp","BBQ Brisket","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",6.16
+115,"Crabcakes and Shrimp","BBQ Brisket","Steak Sampler","Mac and Cheese","Peach Cobbler",7.29
+116,"Crabcakes and Shrimp","BBQ Brisket","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",8.03
+117,"Crabcakes and Shrimp","BBQ Brisket","Steak Sampler","Mashed Potato","Peach Cobbler",7.54
+118,"Crabcakes and Shrimp","BBQ Brisket","Steak Sampler","Mashed Potato","Apple Pie a la Mode",8.15
+119,"Crabcakes and Shrimp","BBQ Brisket","Steak Sampler","French Fry Platter","Peach Cobbler",5.89
+120,"Crabcakes and Shrimp","BBQ Brisket","Steak Sampler","French Fry Platter","Apple Pie a la Mode",6.29
+121,"Crabcakes and Shrimp","Pulled Pork","Sausage","Mac and Cheese","Peach Cobbler",5.48
+122,"Crabcakes and Shrimp","Pulled Pork","Sausage","Mac and Cheese","Apple Pie a la Mode",7.11
+123,"Crabcakes and Shrimp","Pulled Pork","Sausage","Mashed Potato","Peach Cobbler",6.85
+124,"Crabcakes and Shrimp","Pulled Pork","Sausage","Mashed Potato","Apple Pie a la Mode",7.4
+125,"Crabcakes and Shrimp","Pulled Pork","Sausage","French Fry Platter","Peach Cobbler",6.82
+126,"Crabcakes and Shrimp","Pulled Pork","Sausage","French Fry Platter","Apple Pie a la Mode",7.33
+127,"Crabcakes and Shrimp","Pulled Pork","Fajita","Mac and Cheese","Peach Cobbler",6.132
+128,"Crabcakes and Shrimp","Pulled Pork","Fajita","Mac and Cheese","Apple Pie a la Mode",6.652
+129,"Crabcakes and Shrimp","Pulled Pork","Fajita","Mashed Potato","Peach Cobbler",6.172
+130,"Crabcakes and Shrimp","Pulled Pork","Fajita","Mashed Potato","Apple Pie a la Mode",9.542
+131,"Crabcakes and Shrimp","Pulled Pork","Fajita","French Fry Platter","Peach Cobbler",7.372
+132,"Crabcakes and Shrimp","Pulled Pork","Fajita","French Fry Platter","Apple Pie a la Mode",7.552
+133,"Crabcakes and Shrimp","Pulled Pork","Beef Short Rib","Mac and Cheese","Peach Cobbler",6.65
+134,"Crabcakes and Shrimp","Pulled Pork","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",8.57
+135,"Crabcakes and Shrimp","Pulled Pork","Beef Short Rib","Mashed Potato","Peach Cobbler",5.07
+136,"Crabcakes and Shrimp","Pulled Pork","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",9.04
+137,"Crabcakes and Shrimp","Pulled Pork","Beef Short Rib","French Fry Platter","Peach Cobbler",5.34
+138,"Crabcakes and Shrimp","Pulled Pork","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",7.03
+139,"Crabcakes and Shrimp","Pulled Pork","Steak Sampler","Mac and Cheese","Peach Cobbler",6.98
+140,"Crabcakes and Shrimp","Pulled Pork","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",7.56
+141,"Crabcakes and Shrimp","Pulled Pork","Steak Sampler","Mashed Potato","Peach Cobbler",9.3
+142,"Crabcakes and Shrimp","Pulled Pork","Steak Sampler","Mashed Potato","Apple Pie a la Mode",9.01
+143,"Crabcakes and Shrimp","Pulled Pork","Steak Sampler","French Fry Platter","Peach Cobbler",6.91
+144,"Crabcakes and Shrimp","Pulled Pork","Steak Sampler","French Fry Platter","Apple Pie a la Mode",8.89
+145,"Crabcakes and Shrimp","BBQ Chicken","Sausage","Mac and Cheese","Peach Cobbler",7.24
+146,"Crabcakes and Shrimp","BBQ Chicken","Sausage","Mac and Cheese","Apple Pie a la Mode",8.43
+147,"Crabcakes and Shrimp","BBQ Chicken","Sausage","Mashed Potato","Peach Cobbler",5.96
+148,"Crabcakes and Shrimp","BBQ Chicken","Sausage","Mashed Potato","Apple Pie a la Mode",7.96
+149,"Crabcakes and Shrimp","BBQ Chicken","Sausage","French Fry Platter","Peach Cobbler",8.24
+150,"Crabcakes and Shrimp","BBQ Chicken","Sausage","French Fry Platter","Apple Pie a la Mode",4.96
+151,"Crabcakes and Shrimp","BBQ Chicken","Fajita","Mac and Cheese","Peach Cobbler",7.482
+152,"Crabcakes and Shrimp","BBQ Chicken","Fajita","Mac and Cheese","Apple Pie a la Mode",8.002
+153,"Crabcakes and Shrimp","BBQ Chicken","Fajita","Mashed Potato","Peach Cobbler",5.442
+154,"Crabcakes and Shrimp","BBQ Chicken","Fajita","Mashed Potato","Apple Pie a la Mode",6.452
+155,"Crabcakes and Shrimp","BBQ Chicken","Fajita","French Fry Platter","Peach Cobbler",6.922
+156,"Crabcakes and Shrimp","BBQ Chicken","Fajita","French Fry Platter","Apple Pie a la Mode",7.302
+157,"Crabcakes and Shrimp","BBQ Chicken","Beef Short Rib","Mac and Cheese","Peach Cobbler",7.27
+158,"Crabcakes and Shrimp","BBQ Chicken","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",8.81
+159,"Crabcakes and Shrimp","BBQ Chicken","Beef Short Rib","Mashed Potato","Peach Cobbler",3.6
+160,"Crabcakes and Shrimp","BBQ Chicken","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",6.77
+161,"Crabcakes and Shrimp","BBQ Chicken","Beef Short Rib","French Fry Platter","Peach Cobbler",3.6
+162,"Crabcakes and Shrimp","BBQ Chicken","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",8.68
+163,"Crabcakes and Shrimp","BBQ Chicken","Steak Sampler","Mac and Cheese","Peach Cobbler",3.71
+164,"Crabcakes and Shrimp","BBQ Chicken","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",7.96
+165,"Crabcakes and Shrimp","BBQ Chicken","Steak Sampler","Mashed Potato","Peach Cobbler",4.98
+166,"Crabcakes and Shrimp","BBQ Chicken","Steak Sampler","Mashed Potato","Apple Pie a la Mode",9.02
+167,"Crabcakes and Shrimp","BBQ Chicken","Steak Sampler","French Fry Platter","Peach Cobbler",6.95
+168,"Crabcakes and Shrimp","BBQ Chicken","Steak Sampler","French Fry Platter","Apple Pie a la Mode",3.96
+169,"Crabcakes and Shrimp","Pork and Brisket Combo","Sausage","Mac and Cheese","Peach Cobbler",8.81
+170,"Crabcakes and Shrimp","Pork and Brisket Combo","Sausage","Mac and Cheese","Apple Pie a la Mode",9.7
+171,"Crabcakes and Shrimp","Pork and Brisket Combo","Sausage","Mashed Potato","Peach Cobbler",6
+172,"Crabcakes and Shrimp","Pork and Brisket Combo","Sausage","Mashed Potato","Apple Pie a la Mode",7.88
+173,"Crabcakes and Shrimp","Pork and Brisket Combo","Sausage","French Fry Platter","Peach Cobbler",8.58
+174,"Crabcakes and Shrimp","Pork and Brisket Combo","Sausage","French Fry Platter","Apple Pie a la Mode",8.13
+175,"Crabcakes and Shrimp","Pork and Brisket Combo","Fajita","Mac and Cheese","Peach Cobbler",8.022
+176,"Crabcakes and Shrimp","Pork and Brisket Combo","Fajita","Mac and Cheese","Apple Pie a la Mode",6.102
+177,"Crabcakes and Shrimp","Pork and Brisket Combo","Fajita","Mashed Potato","Peach Cobbler",7.232
+178,"Crabcakes and Shrimp","Pork and Brisket Combo","Fajita","Mashed Potato","Apple Pie a la Mode",7.632
+179,"Crabcakes and Shrimp","Pork and Brisket Combo","Fajita","French Fry Platter","Peach Cobbler",9.182
+180,"Crabcakes and Shrimp","Pork and Brisket Combo","Fajita","French Fry Platter","Apple Pie a la Mode",8.412
+181,"Crabcakes and Shrimp","Pork and Brisket Combo","Beef Short Rib","Mac and Cheese","Peach Cobbler",6.98
+182,"Crabcakes and Shrimp","Pork and Brisket Combo","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",7.85
+183,"Crabcakes and Shrimp","Pork and Brisket Combo","Beef Short Rib","Mashed Potato","Peach Cobbler",8.02
+184,"Crabcakes and Shrimp","Pork and Brisket Combo","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",8.47
+185,"Crabcakes and Shrimp","Pork and Brisket Combo","Beef Short Rib","French Fry Platter","Peach Cobbler",8.51
+186,"Crabcakes and Shrimp","Pork and Brisket Combo","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",9.44
+187,"Crabcakes and Shrimp","Pork and Brisket Combo","Steak Sampler","Mac and Cheese","Peach Cobbler",7.06
+188,"Crabcakes and Shrimp","Pork and Brisket Combo","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",9.3
+189,"Crabcakes and Shrimp","Pork and Brisket Combo","Steak Sampler","Mashed Potato","Peach Cobbler",8.16
+190,"Crabcakes and Shrimp","Pork and Brisket Combo","Steak Sampler","Mashed Potato","Apple Pie a la Mode",6.05
+191,"Crabcakes and Shrimp","Pork and Brisket Combo","Steak Sampler","French Fry Platter","Peach Cobbler",7.06
+192,"Crabcakes and Shrimp","Pork and Brisket Combo","Steak Sampler","French Fry Platter","Apple Pie a la Mode",9.47
+193,"Sticky Chicken Tenders","BBQ Brisket","Sausage","Mac and Cheese","Peach Cobbler",8.35
+194,"Sticky Chicken Tenders","BBQ Brisket","Sausage","Mac and Cheese","Apple Pie a la Mode",7.64
+195,"Sticky Chicken Tenders","BBQ Brisket","Sausage","Mashed Potato","Peach Cobbler",9.63
+196,"Sticky Chicken Tenders","BBQ Brisket","Sausage","Mashed Potato","Apple Pie a la Mode",9.08
+197,"Sticky Chicken Tenders","BBQ Brisket","Sausage","French Fry Platter","Peach Cobbler",7.52
+198,"Sticky Chicken Tenders","BBQ Brisket","Sausage","French Fry Platter","Apple Pie a la Mode",9.27
+199,"Sticky Chicken Tenders","BBQ Brisket","Fajita","Mac and Cheese","Peach Cobbler",4.342
+200,"Sticky Chicken Tenders","BBQ Brisket","Fajita","Mac and Cheese","Apple Pie a la Mode",6.912
+201,"Sticky Chicken Tenders","BBQ Brisket","Fajita","Mashed Potato","Peach Cobbler",7.072
+202,"Sticky Chicken Tenders","BBQ Brisket","Fajita","Mashed Potato","Apple Pie a la Mode",4.572
+203,"Sticky Chicken Tenders","BBQ Brisket","Fajita","French Fry Platter","Peach Cobbler",5.752
+204,"Sticky Chicken Tenders","BBQ Brisket","Fajita","French Fry Platter","Apple Pie a la Mode",5.862
+205,"Sticky Chicken Tenders","BBQ Brisket","Beef Short Rib","Mac and Cheese","Peach Cobbler",9.22
+206,"Sticky Chicken Tenders","BBQ Brisket","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",6.43
+207,"Sticky Chicken Tenders","BBQ Brisket","Beef Short Rib","Mashed Potato","Peach Cobbler",4.12
+208,"Sticky Chicken Tenders","BBQ Brisket","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",7.11
+209,"Sticky Chicken Tenders","BBQ Brisket","Beef Short Rib","French Fry Platter","Peach Cobbler",6.69
+210,"Sticky Chicken Tenders","BBQ Brisket","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",8.95
+211,"Sticky Chicken Tenders","BBQ Brisket","Steak Sampler","Mac and Cheese","Peach Cobbler",6.15
+212,"Sticky Chicken Tenders","BBQ Brisket","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",7.22
+213,"Sticky Chicken Tenders","BBQ Brisket","Steak Sampler","Mashed Potato","Peach Cobbler",7.07
+214,"Sticky Chicken Tenders","BBQ Brisket","Steak Sampler","Mashed Potato","Apple Pie a la Mode",7.93
+215,"Sticky Chicken Tenders","BBQ Brisket","Steak Sampler","French Fry Platter","Peach Cobbler",7.55
+216,"Sticky Chicken Tenders","BBQ Brisket","Steak Sampler","French Fry Platter","Apple Pie a la Mode",6.97
+217,"Sticky Chicken Tenders","Pulled Pork","Sausage","Mac and Cheese","Peach Cobbler",9.02
+218,"Sticky Chicken Tenders","Pulled Pork","Sausage","Mac and Cheese","Apple Pie a la Mode",9.47
+219,"Sticky Chicken Tenders","Pulled Pork","Sausage","Mashed Potato","Peach Cobbler",7.74
+220,"Sticky Chicken Tenders","Pulled Pork","Sausage","Mashed Potato","Apple Pie a la Mode",5.29
+221,"Sticky Chicken Tenders","Pulled Pork","Sausage","French Fry Platter","Peach Cobbler",9.39
+222,"Sticky Chicken Tenders","Pulled Pork","Sausage","French Fry Platter","Apple Pie a la Mode",9.37
+223,"Sticky Chicken Tenders","Pulled Pork","Fajita","Mac and Cheese","Peach Cobbler",8.392
+224,"Sticky Chicken Tenders","Pulled Pork","Fajita","Mac and Cheese","Apple Pie a la Mode",8.942
+225,"Sticky Chicken Tenders","Pulled Pork","Fajita","Mashed Potato","Peach Cobbler",5.442
+226,"Sticky Chicken Tenders","Pulled Pork","Fajita","Mashed Potato","Apple Pie a la Mode",4.902
+227,"Sticky Chicken Tenders","Pulled Pork","Fajita","French Fry Platter","Peach Cobbler",4.082
+228,"Sticky Chicken Tenders","Pulled Pork","Fajita","French Fry Platter","Apple Pie a la Mode",5.712
+229,"Sticky Chicken Tenders","Pulled Pork","Beef Short Rib","Mac and Cheese","Peach Cobbler",8.08
+230,"Sticky Chicken Tenders","Pulled Pork","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",7.52
+231,"Sticky Chicken Tenders","Pulled Pork","Beef Short Rib","Mashed Potato","Peach Cobbler",8.24
+232,"Sticky Chicken Tenders","Pulled Pork","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",8.86
+233,"Sticky Chicken Tenders","Pulled Pork","Beef Short Rib","French Fry Platter","Peach Cobbler",6.9
+234,"Sticky Chicken Tenders","Pulled Pork","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",9.03
+235,"Sticky Chicken Tenders","Pulled Pork","Steak Sampler","Mac and Cheese","Peach Cobbler",4.94
+236,"Sticky Chicken Tenders","Pulled Pork","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",8.23
+237,"Sticky Chicken Tenders","Pulled Pork","Steak Sampler","Mashed Potato","Peach Cobbler",8.9
+238,"Sticky Chicken Tenders","Pulled Pork","Steak Sampler","Mashed Potato","Apple Pie a la Mode",4.29
+239,"Sticky Chicken Tenders","Pulled Pork","Steak Sampler","French Fry Platter","Peach Cobbler",6.92
+240,"Sticky Chicken Tenders","Pulled Pork","Steak Sampler","French Fry Platter","Apple Pie a la Mode",6.77
+241,"Sticky Chicken Tenders","BBQ Chicken","Sausage","Mac and Cheese","Peach Cobbler",8.56
+242,"Sticky Chicken Tenders","BBQ Chicken","Sausage","Mac and Cheese","Apple Pie a la Mode",6.03
+243,"Sticky Chicken Tenders","BBQ Chicken","Sausage","Mashed Potato","Peach Cobbler",5.64
+244,"Sticky Chicken Tenders","BBQ Chicken","Sausage","Mashed Potato","Apple Pie a la Mode",8.37
+245,"Sticky Chicken Tenders","BBQ Chicken","Sausage","French Fry Platter","Peach Cobbler",7.27
+246,"Sticky Chicken Tenders","BBQ Chicken","Sausage","French Fry Platter","Apple Pie a la Mode",7.18
+247,"Sticky Chicken Tenders","BBQ Chicken","Fajita","Mac and Cheese","Peach Cobbler",5.452
+248,"Sticky Chicken Tenders","BBQ Chicken","Fajita","Mac and Cheese","Apple Pie a la Mode",4.782
+249,"Sticky Chicken Tenders","BBQ Chicken","Fajita","Mashed Potato","Peach Cobbler",5.552
+250,"Sticky Chicken Tenders","BBQ Chicken","Fajita","Mashed Potato","Apple Pie a la Mode",6.782
+251,"Sticky Chicken Tenders","BBQ Chicken","Fajita","French Fry Platter","Peach Cobbler",5.462
+252,"Sticky Chicken Tenders","BBQ Chicken","Fajita","French Fry Platter","Apple Pie a la Mode",7.912
+253,"Sticky Chicken Tenders","BBQ Chicken","Beef Short Rib","Mac and Cheese","Peach Cobbler",6.52
+254,"Sticky Chicken Tenders","BBQ Chicken","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",8.92
+255,"Sticky Chicken Tenders","BBQ Chicken","Beef Short Rib","Mashed Potato","Peach Cobbler",6.88
+256,"Sticky Chicken Tenders","BBQ Chicken","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",9.14
+257,"Sticky Chicken Tenders","BBQ Chicken","Beef Short Rib","French Fry Platter","Peach Cobbler",4.97
+258,"Sticky Chicken Tenders","BBQ Chicken","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",5.45
+259,"Sticky Chicken Tenders","BBQ Chicken","Steak Sampler","Mac and Cheese","Peach Cobbler",6.93
+260,"Sticky Chicken Tenders","BBQ Chicken","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",9.97
+261,"Sticky Chicken Tenders","BBQ Chicken","Steak Sampler","Mashed Potato","Peach Cobbler",5.4
+262,"Sticky Chicken Tenders","BBQ Chicken","Steak Sampler","Mashed Potato","Apple Pie a la Mode",4.25
+263,"Sticky Chicken Tenders","BBQ Chicken","Steak Sampler","French Fry Platter","Peach Cobbler",6.46
+264,"Sticky Chicken Tenders","BBQ Chicken","Steak Sampler","French Fry Platter","Apple Pie a la Mode",8.99
+265,"Sticky Chicken Tenders","Pork and Brisket Combo","Sausage","Mac and Cheese","Peach Cobbler",5.84
+266,"Sticky Chicken Tenders","Pork and Brisket Combo","Sausage","Mac and Cheese","Apple Pie a la Mode",9.7
+267,"Sticky Chicken Tenders","Pork and Brisket Combo","Sausage","Mashed Potato","Peach Cobbler",5.74
+268,"Sticky Chicken Tenders","Pork and Brisket Combo","Sausage","Mashed Potato","Apple Pie a la Mode",9.56
+269,"Sticky Chicken Tenders","Pork and Brisket Combo","Sausage","French Fry Platter","Peach Cobbler",5.52
+270,"Sticky Chicken Tenders","Pork and Brisket Combo","Sausage","French Fry Platter","Apple Pie a la Mode",9.59
+271,"Sticky Chicken Tenders","Pork and Brisket Combo","Fajita","Mac and Cheese","Peach Cobbler",8.722
+272,"Sticky Chicken Tenders","Pork and Brisket Combo","Fajita","Mac and Cheese","Apple Pie a la Mode",5.872
+273,"Sticky Chicken Tenders","Pork and Brisket Combo","Fajita","Mashed Potato","Peach Cobbler",6.182
+274,"Sticky Chicken Tenders","Pork and Brisket Combo","Fajita","Mashed Potato","Apple Pie a la Mode",7.852
+275,"Sticky Chicken Tenders","Pork and Brisket Combo","Fajita","French Fry Platter","Peach Cobbler",7.232
+276,"Sticky Chicken Tenders","Pork and Brisket Combo","Fajita","French Fry Platter","Apple Pie a la Mode",6.742
+277,"Sticky Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","Mac and Cheese","Peach Cobbler",4.74
+278,"Sticky Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",7.78
+279,"Sticky Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","Mashed Potato","Peach Cobbler",9
+280,"Sticky Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",6.41
+281,"Sticky Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","French Fry Platter","Peach Cobbler",7.68
+282,"Sticky Chicken Tenders","Pork and Brisket Combo","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",8.51
+283,"Sticky Chicken Tenders","Pork and Brisket Combo","Steak Sampler","Mac and Cheese","Peach Cobbler",8.89
+284,"Sticky Chicken Tenders","Pork and Brisket Combo","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",9.28
+285,"Sticky Chicken Tenders","Pork and Brisket Combo","Steak Sampler","Mashed Potato","Peach Cobbler",7.42
+286,"Sticky Chicken Tenders","Pork and Brisket Combo","Steak Sampler","Mashed Potato","Apple Pie a la Mode",5.84
+287,"Sticky Chicken Tenders","Pork and Brisket Combo","Steak Sampler","French Fry Platter","Peach Cobbler",8.73
+288,"Sticky Chicken Tenders","Pork and Brisket Combo","Steak Sampler","French Fry Platter","Apple Pie a la Mode",8.52
+289,"Jumbo Shrimp Cocktail","BBQ Brisket","Sausage","Mac and Cheese","Peach Cobbler",5.18
+290,"Jumbo Shrimp Cocktail","BBQ Brisket","Sausage","Mac and Cheese","Apple Pie a la Mode",4.98
+291,"Jumbo Shrimp Cocktail","BBQ Brisket","Sausage","Mashed Potato","Peach Cobbler",8.47
+292,"Jumbo Shrimp Cocktail","BBQ Brisket","Sausage","Mashed Potato","Apple Pie a la Mode",6.92
+293,"Jumbo Shrimp Cocktail","BBQ Brisket","Sausage","French Fry Platter","Peach Cobbler",5.01
+294,"Jumbo Shrimp Cocktail","BBQ Brisket","Sausage","French Fry Platter","Apple Pie a la Mode",3.54
+295,"Jumbo Shrimp Cocktail","BBQ Brisket","Fajita","Mac and Cheese","Peach Cobbler",7.162
+296,"Jumbo Shrimp Cocktail","BBQ Brisket","Fajita","Mac and Cheese","Apple Pie a la Mode",9.432
+297,"Jumbo Shrimp Cocktail","BBQ Brisket","Fajita","Mashed Potato","Peach Cobbler",4.592
+298,"Jumbo Shrimp Cocktail","BBQ Brisket","Fajita","Mashed Potato","Apple Pie a la Mode",3.692
+299,"Jumbo Shrimp Cocktail","BBQ Brisket","Fajita","French Fry Platter","Peach Cobbler",6.932
+300,"Jumbo Shrimp Cocktail","BBQ Brisket","Fajita","French Fry Platter","Apple Pie a la Mode",8.172
+301,"Jumbo Shrimp Cocktail","BBQ Brisket","Beef Short Rib","Mac and Cheese","Peach Cobbler",5.86
+302,"Jumbo Shrimp Cocktail","BBQ Brisket","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",8.3
+303,"Jumbo Shrimp Cocktail","BBQ Brisket","Beef Short Rib","Mashed Potato","Peach Cobbler",9.18
+304,"Jumbo Shrimp Cocktail","BBQ Brisket","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",4.29
+305,"Jumbo Shrimp Cocktail","BBQ Brisket","Beef Short Rib","French Fry Platter","Peach Cobbler",5.83
+306,"Jumbo Shrimp Cocktail","BBQ Brisket","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",5.28
+307,"Jumbo Shrimp Cocktail","BBQ Brisket","Steak Sampler","Mac and Cheese","Peach Cobbler",5.26
+308,"Jumbo Shrimp Cocktail","BBQ Brisket","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",6.11
+309,"Jumbo Shrimp Cocktail","BBQ Brisket","Steak Sampler","Mashed Potato","Peach Cobbler",2.93
+310,"Jumbo Shrimp Cocktail","BBQ Brisket","Steak Sampler","Mashed Potato","Apple Pie a la Mode",6.98
+311,"Jumbo Shrimp Cocktail","BBQ Brisket","Steak Sampler","French Fry Platter","Peach Cobbler",6.68
+312,"Jumbo Shrimp Cocktail","BBQ Brisket","Steak Sampler","French Fry Platter","Apple Pie a la Mode",9.14
+313,"Jumbo Shrimp Cocktail","Pulled Pork","Sausage","Mac and Cheese","Peach Cobbler",4.52
+314,"Jumbo Shrimp Cocktail","Pulled Pork","Sausage","Mac and Cheese","Apple Pie a la Mode",7.57
+315,"Jumbo Shrimp Cocktail","Pulled Pork","Sausage","Mashed Potato","Peach Cobbler",3.08
+316,"Jumbo Shrimp Cocktail","Pulled Pork","Sausage","Mashed Potato","Apple Pie a la Mode",7.13
+317,"Jumbo Shrimp Cocktail","Pulled Pork","Sausage","French Fry Platter","Peach Cobbler",9.44
+318,"Jumbo Shrimp Cocktail","Pulled Pork","Sausage","French Fry Platter","Apple Pie a la Mode",7.24
+319,"Jumbo Shrimp Cocktail","Pulled Pork","Fajita","Mac and Cheese","Peach Cobbler",5.202
+320,"Jumbo Shrimp Cocktail","Pulled Pork","Fajita","Mac and Cheese","Apple Pie a la Mode",7.892
+321,"Jumbo Shrimp Cocktail","Pulled Pork","Fajita","Mashed Potato","Peach Cobbler",5.202
+322,"Jumbo Shrimp Cocktail","Pulled Pork","Fajita","Mashed Potato","Apple Pie a la Mode",5.252
+323,"Jumbo Shrimp Cocktail","Pulled Pork","Fajita","French Fry Platter","Peach Cobbler",5.492
+324,"Jumbo Shrimp Cocktail","Pulled Pork","Fajita","French Fry Platter","Apple Pie a la Mode",5.052
+325,"Jumbo Shrimp Cocktail","Pulled Pork","Beef Short Rib","Mac and Cheese","Peach Cobbler",5.48
+326,"Jumbo Shrimp Cocktail","Pulled Pork","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",9.22
+327,"Jumbo Shrimp Cocktail","Pulled Pork","Beef Short Rib","Mashed Potato","Peach Cobbler",7.93
+328,"Jumbo Shrimp Cocktail","Pulled Pork","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",7.38
+329,"Jumbo Shrimp Cocktail","Pulled Pork","Beef Short Rib","French Fry Platter","Peach Cobbler",4.8
+330,"Jumbo Shrimp Cocktail","Pulled Pork","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",6.56
+331,"Jumbo Shrimp Cocktail","Pulled Pork","Steak Sampler","Mac and Cheese","Peach Cobbler",6.2
+332,"Jumbo Shrimp Cocktail","Pulled Pork","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",9.89
+333,"Jumbo Shrimp Cocktail","Pulled Pork","Steak Sampler","Mashed Potato","Peach Cobbler",6.12
+334,"Jumbo Shrimp Cocktail","Pulled Pork","Steak Sampler","Mashed Potato","Apple Pie a la Mode",5.97
+335,"Jumbo Shrimp Cocktail","Pulled Pork","Steak Sampler","French Fry Platter","Peach Cobbler",7.3
+336,"Jumbo Shrimp Cocktail","Pulled Pork","Steak Sampler","French Fry Platter","Apple Pie a la Mode",9.61
+337,"Jumbo Shrimp Cocktail","BBQ Chicken","Sausage","Mac and Cheese","Peach Cobbler",7.58
+338,"Jumbo Shrimp Cocktail","BBQ Chicken","Sausage","Mac and Cheese","Apple Pie a la Mode",6.13
+339,"Jumbo Shrimp Cocktail","BBQ Chicken","Sausage","Mashed Potato","Peach Cobbler",5.42
+340,"Jumbo Shrimp Cocktail","BBQ Chicken","Sausage","Mashed Potato","Apple Pie a la Mode",7.26
+341,"Jumbo Shrimp Cocktail","BBQ Chicken","Sausage","French Fry Platter","Peach Cobbler",7.89
+342,"Jumbo Shrimp Cocktail","BBQ Chicken","Sausage","French Fry Platter","Apple Pie a la Mode",5.2
+343,"Jumbo Shrimp Cocktail","BBQ Chicken","Fajita","Mac and Cheese","Peach Cobbler",3.302
+344,"Jumbo Shrimp Cocktail","BBQ Chicken","Fajita","Mac and Cheese","Apple Pie a la Mode",4.882
+345,"Jumbo Shrimp Cocktail","BBQ Chicken","Fajita","Mashed Potato","Peach Cobbler",2.352
+346,"Jumbo Shrimp Cocktail","BBQ Chicken","Fajita","Mashed Potato","Apple Pie a la Mode",7.192
+347,"Jumbo Shrimp Cocktail","BBQ Chicken","Fajita","French Fry Platter","Peach Cobbler",5.952
+348,"Jumbo Shrimp Cocktail","BBQ Chicken","Fajita","French Fry Platter","Apple Pie a la Mode",7.542
+349,"Jumbo Shrimp Cocktail","BBQ Chicken","Beef Short Rib","Mac and Cheese","Peach Cobbler",3.91
+350,"Jumbo Shrimp Cocktail","BBQ Chicken","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",9.26
+351,"Jumbo Shrimp Cocktail","BBQ Chicken","Beef Short Rib","Mashed Potato","Peach Cobbler",3.39
+352,"Jumbo Shrimp Cocktail","BBQ Chicken","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",7.74
+353,"Jumbo Shrimp Cocktail","BBQ Chicken","Beef Short Rib","French Fry Platter","Peach Cobbler",6.17
+354,"Jumbo Shrimp Cocktail","BBQ Chicken","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",3.5
+355,"Jumbo Shrimp Cocktail","BBQ Chicken","Steak Sampler","Mac and Cheese","Peach Cobbler",7.17
+356,"Jumbo Shrimp Cocktail","BBQ Chicken","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",8.3
+357,"Jumbo Shrimp Cocktail","BBQ Chicken","Steak Sampler","Mashed Potato","Peach Cobbler",8.59
+358,"Jumbo Shrimp Cocktail","BBQ Chicken","Steak Sampler","Mashed Potato","Apple Pie a la Mode",8.7
+359,"Jumbo Shrimp Cocktail","BBQ Chicken","Steak Sampler","French Fry Platter","Peach Cobbler",7.37
+360,"Jumbo Shrimp Cocktail","BBQ Chicken","Steak Sampler","French Fry Platter","Apple Pie a la Mode",4.36
+361,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Sausage","Mac and Cheese","Peach Cobbler",8.64
+362,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Sausage","Mac and Cheese","Apple Pie a la Mode",8.56
+363,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Sausage","Mashed Potato","Peach Cobbler",4.48
+364,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Sausage","Mashed Potato","Apple Pie a la Mode",8.69
+365,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Sausage","French Fry Platter","Peach Cobbler",6.77
+366,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Sausage","French Fry Platter","Apple Pie a la Mode",9.34
+367,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Fajita","Mac and Cheese","Peach Cobbler",6.552
+368,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Fajita","Mac and Cheese","Apple Pie a la Mode",9.082
+369,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Fajita","Mashed Potato","Peach Cobbler",5.962
+370,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Fajita","Mashed Potato","Apple Pie a la Mode",5.582
+371,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Fajita","French Fry Platter","Peach Cobbler",6.422
+372,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Fajita","French Fry Platter","Apple Pie a la Mode",6.902
+373,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Beef Short Rib","Mac and Cheese","Peach Cobbler",9.42
+374,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Beef Short Rib","Mac and Cheese","Apple Pie a la Mode",7.31
+375,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Beef Short Rib","Mashed Potato","Peach Cobbler",8.66
+376,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Beef Short Rib","Mashed Potato","Apple Pie a la Mode",8.82
+377,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Beef Short Rib","French Fry Platter","Peach Cobbler",8.31
+378,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Beef Short Rib","French Fry Platter","Apple Pie a la Mode",6.92
+379,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Steak Sampler","Mac and Cheese","Peach Cobbler",7.34
+380,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Steak Sampler","Mac and Cheese","Apple Pie a la Mode",5.91
+381,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Steak Sampler","Mashed Potato","Peach Cobbler",6.3
+382,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Steak Sampler","Mashed Potato","Apple Pie a la Mode",7.65
+383,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Steak Sampler","French Fry Platter","Peach Cobbler",8.67
+384,"Jumbo Shrimp Cocktail","Pork and Brisket Combo","Steak Sampler","French Fry Platter","Apple Pie a la Mode",8.83
