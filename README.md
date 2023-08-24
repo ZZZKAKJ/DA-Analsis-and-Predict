@@ -1,5 +1,5 @@
 # DA-Analsis-and-Predict
-# Python
+# Python/ Pandas
 
       Segmentation and Targeting : groupby/KMeans
       
