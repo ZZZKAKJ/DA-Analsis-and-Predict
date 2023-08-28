@@ -1,4 +1,4 @@
-# DA-Analsis-and-Predict
+# Lobster Land
 # Python/ Pandas
 
       Segmentation and Targeting : groupby/KMeans
